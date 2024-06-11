@@ -1,0 +1,28 @@
+.youtube-title {
+	font-family: var(--font-content);
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: 400;
+	margin: 1rem;
+}
+
+.youtube-desc {
+    margin: 0.6rem;
+    margin-bottom: 5rem;
+}
+
+.video-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0rem 2rem;
+}
+
+.video-player {
+  width: 100%;
+  max-width: 800px;
+  height: 450px;
+  margin: 0 auto;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

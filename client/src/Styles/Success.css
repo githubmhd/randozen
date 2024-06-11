@@ -1,0 +1,50 @@
+.allSuccess {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 10rem;
+  background: rgba(255, 255, 255, 0.306);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(15px);
+  border-radius: 10px;
+  height: 20rem;
+  width: 90%;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.linkSuccess {
+  background-color: var(--primaryColor);
+  margin-top: 1rem;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border-radius: 2rem;
+  color: white;
+}
+
+.divContainer {
+  margin-top: 3rem;
+}
+
+.detailSuccess {
+  margin-top: 2rem;
+  font-weight: 500;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.blob3 {
+  position: absolute;
+  top: 10rem;
+  left: -3rem;
+  z-index: -1;
+  width: 14rem;
+}
+
+.blob4 {
+  position: absolute;
+  z-index: -1;
+  top: 25rem;
+  right: 0;
+  width: 15rem;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "src": "Img/activity-goat.jpg",
+    "alt": "Goat",
+    "link": "/activities/goat",
+    "text": "Course de chèvre",
+    "youtubeID": "Sb3YnpYMfoU",
+    "id": "0",
+    "title": "Une course de chèvres à Couy (Cher)",
+    "desc": "Assistez à une course peu commune à Couy, dans le Berry, où ce sont des chèvres qui prennent la ligne de départ. Connue sous le nom de course de Chieuve, cette tradition séculaire est bien plus qu'une simple compétition, c'est une véritable fête populaire enracinée depuis plus d'un demi-siècle dans la région."
+  },
+  {
+    "src": "Img/activity-chamane.jpg",
+    "alt": "Chamane",
+    "link": "/activities/chamane",
+    "text": "Séance de chamanisme",
+    "youtubeID": "Z0isxBxyl2E",
+    "id": "1",
+    "title": "Le chamanisme, c'est ça",
+    "desc": "Plongez dans l'univers mystique du chamanisme, une pratique ancestrale visant à se connecter à la nature, aux esprits et à soi-même. Dans cette vidéo captivante, le chamane Arnaud Riou nous guide à travers les rituels et les enseignements de cette tradition millénaire."
+  },
+  {
+    "src": "Img/activity-turtle.jpg",
+    "alt": "Turtle",
+    "link": "/activities/turtle",
+    "text": "Natation avec des tortues",
+    "youtubeID": "vAticypJw4Y",
+    "id": "2",
+    "title": "Cette tortue peut manger jusqu'à 200 méduses pour satisfaire son appétit",
+    "desc": "Découvrez le monde fascinant de la tortue imbriquée, capable de dévorer jusqu'à 200 méduses pour se rassasier, avant de se tourner vers les éponges. Malgré sa voracité, cette espèce est menacée par l'activité humaine, son seul prédateur connu aujourd'hui."
+  },
+  {
+    "src": "Img/activity-asmr.jpg",
+    "alt": "ASMR",
+    "link": "/activities/asmr",
+    "text": "Vidéo ASMR pour se détendre",
+    "youtubeID": "puIF7kUvfAY",
+    "id": "3",
+    "title": "ASMR - Ton examen médical annuel",
+    "desc": "Plongez dans une expérience ASMR relaxante avec cette simulation d'examen médical annuel. Détendez-vous avec des sons apaisants et des instructions douces, tout en prenant soin de votre bien-être mental."
+  },
+  {
+    "src": "Img/activity-eat.jpg",
+    "alt": "Eat",
+    "link": "/activities/eat",
+    "text": "Pique-nique dans les champs",
+    "youtubeID": "Dx28qkx4Ho4",
+    "id": "4",
+    "title": "Pique-nique d'été - Recettes et organisation",
+    "desc": "Préparez-vous pour un pique-nique estival mémorable avec ce guide complet comprenant des recettes délicieuses et des conseils d'organisation. Découvrez comment créer un pique-nique parfait pour profiter pleinement du plein air et des beaux jours."
+  },
+  {
+    "src": "Img/activity-meditation.jpg",
+    "alt": "Meditation",
+    "link": "/activities/meditation",
+    "text": "Podcast de méditation",
+    "youtubeID": "PTsk8VHCZjM",
+    "id": "5",
+    "title": "10 minutes de MÉDITATION en pleine conscience pour débutants 🎧🎙 Cédric Michel",
+    "desc": "Profitez de 10 minutes de méditation guidée en pleine conscience avec Cédric Michel. Cette séance est conçue pour les débutants et vous aidera à améliorer votre bien-être et à réduire le stress au quotidien."
+  },
+  {
+    "src": "Img/activity-pipeau.jpg",
+    "alt": "Pipeau",
+    "link": "/activities/pipeau",
+    "text": "Initiation au pipeau",
+    "youtubeID": "qKSmp9HqPdA",
+    "id": "6",
+    "title": "Du pipeau",
+    "desc": "Explorez l'univers du pipeau avec cette initiation captivante à cet instrument traditionnel. Plongez dans l'art du pipeau et découvrez ses nuances mélodiques à travers cette vidéo informative et divertissante."
+  },
+  {
+    "src": "Img/activity-reading.jpg",
+    "alt": "Reading",
+    "link": "/activities/reading",
+    "text": "Recommandation de lecture",
+    "youtubeID": "wt4MtHGPPxk",
+    "id": "7",
+    "title": "Je vous conseille 15 Livres pour sortir d'une Panne de Lecture!",
+    "desc": "Besoin d'inspiration littéraire ? Découvrez 15 livres soigneusement sélectionnés pour vous aider à sortir d'une panne de lecture. Ces recommandations variées vous offriront une escapade littéraire garantie à chaque page."
+  },
+  {
+    "src": "Img/activity-song-oasis.jpg",
+    "alt": "Song",
+    "link": "/activities/campfire",
+    "text": "Musique à écouter autour d'un feu de camp",
+    "youtubeID": "DERRZE7wfWQ",
+    "id": "8",
+    "title": "Wonderwall by Oasis at a campfire with over 100 people",
+    "desc": " Vivez l'ambiance unique d'une interprétation de 'Wonderwall' d'Oasis autour d'un feu de camp, entouré de plus de 100 personnes. Malgré quelques imperfections musicales, cette expérience partagée reste inoubliable et chaleureuse."
+  },
+  {
+    "src": "Img/activity-work.jpg",
+    "alt": "Work",
+    "link": "/activities/work",
+    "text": "Entretien d'embauche relaxant",
+    "youtubeID": "lRzjBCT7K3s",
+    "id": "9",
+    "title": "Méditation guidée Réussir un entretien",
+    "desc": "Préparez-vous mentalement pour un entretien important grâce à cette méditation guidée. Laissez-vous guider par une séance apaisante qui vous aidera à vous détendre et à atteindre votre plein potentiel avant votre rendez-vous professionnel."
+  },
+  {
+    "src": "Img/activity-yoga.jpg",
+    "alt": "Yoga",
+    "link": "/activities/yoga",
+    "text": "Apprendre les postures de Yoga",
+    "youtubeID": "RfL3pQkyTIA",
+    "id": "10",
+    "title": "Yoga Débutant | Cours Maison Complet",
+    "desc": "Plongez dans un cours de yoga adapté aux débutants, conçu pour renforcer votre corps et améliorer votre flexibilité en toute sécurité depuis le confort de votre foyer. Rejoignez cette séance pour explorer les bases du yoga et élever votre pratique."
+  },
+  {
+    "src": "Img/activity-neighbor.jpg",
+    "alt": "Neighbor",
+    "link": "/activities/adopt",
+    "text": "Adopte un randonneur",
+    "youtubeID": "6qjOdk005U4",
+    "id": "11",
+    "title": "Les 8 erreurs de débutant en randonnée !",
+    "desc": "Découvrez les erreurs à éviter lors de vos premières randonnées grâce à ce guide détaillé. Apprenez à maximiser votre expérience en plein air en évitant les pièges courants des débutants."
+  }
+]

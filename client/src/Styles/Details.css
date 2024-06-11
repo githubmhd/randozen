@@ -1,0 +1,41 @@
+.detailsRando {
+	display: flex;
+	flex-direction: column;
+	gap: 0.8rem;
+}
+
+.pictureDetails {
+	width: 90%;
+	height: 13rem;
+	align-self: center;
+	border-radius: 0.5rem;
+}
+
+.articleDetails {
+	margin-left: 1rem;
+}
+
+.titleDetails {
+	color: var(--secondaryColor);
+	font-size: 1.3rem;
+	margin-bottom: 1rem;
+	font-weight: 600;
+}
+
+.nameDetails {
+	font-size: 1rem;
+	margin-right: 0.5rem;
+	margin-bottom: 1rem;
+	font-weight: 500;
+}
+
+.townDetails,
+.departementDetails,
+.difficultyDetails,
+.typeDetails,
+.distanceDetails,
+.timeDetails {
+	font-size: 1rem;
+	margin-bottom: 1rem;
+	font-weight: 500;
+}

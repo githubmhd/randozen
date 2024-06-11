@@ -1,0 +1,18 @@
+.allFilters {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+select {
+  width: 7rem;
+  font-size: 0.7rem;
+  border-radius: 2rem;
+  padding: 0.1rem 0.3rem 0.1rem 0.3rem;
+  outline: solid var(--primaryColor) 0.01rem;
+}
+
+select:focus-visible {
+  outline: solid var(--primaryColor) 0.01rem;
+}

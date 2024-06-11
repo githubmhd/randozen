@@ -1,0 +1,73 @@
+.title-activities {
+  font-family: var(--font-content);
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: 400;
+  margin: auto;
+}
+
+.swiper {
+  width: 100%;
+  height: 95%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.slide-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+}
+
+.mySwiper {
+  width: 100%;
+  max-width: 800px;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: var(--primaryColor);
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--primaryColor);
+}
+
+.slide-content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.slide-content p {
+  position: absolute;
+  width: 100%;
+  bottom: 2rem;
+  left: 0rem;
+  padding: 5px 10px;
+  background: rgba(0, 0, 0, 0.5);
+  color: var(--whiteColor);
+  font-size: 1rem;
+  font-weight: 400;
+}
